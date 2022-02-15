@@ -32,7 +32,7 @@ const displayGameDrawMessage = () => {
 }
 
 const clearMessage = () => {
-    panel.innerHTML = ``;
+    panel.innerHTML = `Kółko i Krzyżyk`;
 }
 
 const validateGame = () => {

@@ -36,7 +36,7 @@ header{
 .board-item-field-X::before, .board-item-field-X::after{
     position: absolute;
     content: "";
-    height: 8px;
+    height: 7px;
     width: 100%;
     top: 50%;
     left: 0;
@@ -52,7 +52,7 @@ header{
     position: absolute;
     content: "";
     border-radius: 50%;
-    border: 8px solid #ff8600;
+    border: 7px solid #ff8600;
     width: 80%;
     height: 80%;
     top: 50%;
