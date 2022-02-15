@@ -78,3 +78,17 @@ button:hover{
     background-color: #27187e;
     border-color: #27187e;
 }
+@media (max-width:500px){
+    content{
+        grid-template-columns: repeat(3, 80px);
+        grid-template-rows: 80px 80px 80px;
+        grid-gap: 5px;
+    }
+    header{
+        font-size: 20pt;
+        height: 70px;
+    }
+    button{
+        padding: 15px 20px;
+    }
+}
