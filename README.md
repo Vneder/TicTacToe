@@ -24,13 +24,13 @@ Project is created with:
 ## Screenshots
 
 <p align="center">
-  <img src="screen1.jpg" alt="Screenshot1">
+  <img src="Screen1.jpg" alt="Screenshot1">
 </p>
 
 <p align="center">
-  <img src="screen2.jpg" alt="Screenshot2">
+  <img src="Screen2.jpg" alt="Screenshot2">
 </p>
 
 <p align="center">
-  <img src="screen3.jpg" alt="Screenshot3">  
+  <img src="Screen3.jpg" alt="Screenshot3">  
 </p>
