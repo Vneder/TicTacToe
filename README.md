@@ -8,8 +8,7 @@
 * [Technologies](#technologies)
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Contact](#contact)
-
+  
 ## Live
 <h3> https://vneder.github.io/TicTacToe/</h3>
 
@@ -35,7 +34,3 @@ Project is created with:
 <p align="center">
   <img src="Screen3.jpg" alt="Screenshot3">  
 </p>
-
-## Contact
-* E-mail: lukasz.wozniakowski21@gmail.com
-* LinkedIn: https://www.linkedin.com/in/lukasz-wozniakowski21/
